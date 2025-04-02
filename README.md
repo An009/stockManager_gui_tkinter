@@ -29,11 +29,12 @@ A comprehensive stock management system with graphical user interface built with
 
 ## Screenshots
 
-![Main Interface](https://via.placeholder.com/800x500?text=Stock+Management+Main+Interface)
+![Main Interface](screenshots/image_2025-04-02_21-38-52.png)
 *Main application interface with product table*
 
-![Statistics View](https://via.placeholder.com/800x500?text=Data+Visualization+Dashboard)
+![Statistics View](screenshots/image_2025-04-02_21-37-56.png)
 *Interactive data visualization dashboard*
+
 
 ## Installation
 
