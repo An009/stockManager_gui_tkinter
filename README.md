@@ -38,9 +38,9 @@ A comprehensive stock management system with graphical user interface built with
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/stock-management-gui.git
-    ```
+```bash
+git clone https://github.com/An009/stockManager_gui_tkinter.git
+ ```
 Install required dependencies:
 ```bash
 pip install -r requirements.txt
@@ -53,7 +53,7 @@ Run the application:
 ```bash
 python gestion_de_stock_GUI_2.0.py
 ```
-#Usage
+## Usage
 Menu Options
 File:
 
@@ -63,7 +63,7 @@ Open: Load inventory from a text file
 
 Quit: Exit the application
 
-#Tasks:
+## Tasks:
 
 View Statistics: Show data visualization dashboard
 
@@ -77,12 +77,12 @@ Add/Modify/Delete: Product management functions
 
 Sort: Various sorting options for the product list
 
-#Keyboard Shortcuts
+## Keyboard Shortcuts
 Right-click on table rows for quick actions
 
 Use scrollbar to navigate long product lists
 
-#Code Structure
+## Code Structure
 ```bash
 Stock Management System/
 ├── Product Class          - Core product data model
